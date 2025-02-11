@@ -2,7 +2,8 @@
 
 - 👨‍💻 I’m currently working with **HTML, CSS, Javascript, Ruby on Rails, Shopify Plus, Unity3D, C#**
 - 🌱 I’m currently learning **Game Design and Python**
-- 🔭 I'm also interested in **entrepreneurship, physical education and fitness**.
+- 🔭 I'm also interested in **Entrepreneurship, Physical Education and Fitness**.
+- 🗣️ I'm speaking **French and English**
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/)
 
 <!--
