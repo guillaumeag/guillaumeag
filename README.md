@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Game Design and Python**
 - 🔭 I'm also interested in **Entrepreneurship, Physical Education and Fitness**.
 - 🗣️ I'm speaking **French and English**
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/)
+- 📫 How to reach me: On [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/)
 
 <!--
 **guillaumeag/guillaumeag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
