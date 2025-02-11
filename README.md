@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👨‍💻 I’m currently working with **HTML, CSS, Javascript, Ruby on Rails, Shopify Plus, Unity3D, C#**
+- 🌱 I’m currently learning **Game Design and Python**
+- 🔭 I'm also interested in **entrepreneurship, physical education and fitness**.
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/)
+
 <!--
 **guillaumeag/guillaumeag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
