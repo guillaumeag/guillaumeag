@@ -1,22 +1,26 @@
-### Hi there 👋
+# Hi, I'm Guillaume 👋
 
-- 👨‍💻 I’m currently working with **HTML, CSS, Javascript, Ruby on Rails, Shopify Plus, Unity3D, C#, Python, Claude Code**
-- 🌱 I’m currently learning **AI engineering, Spec-Driven Development and Game Design**
-- 🔭 I'm also interested in **Entrepreneurship, Gaming, Physical Education and Fitness**.
-- 🗣️ I'm speaking **French and English**
-- 📫 How to reach me: On [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/)
+Game & Software Developer with 15 years of experience across web,
+e-commerce (Shopify Plus), and software. Now focused on games, tools, and security,
+using AI-assisted, spec-driven workflows.
+
+### 🎮 What I build
+- **Games:** Unity, C#, game design
+- **Software & web:** Python, JavaScript, Ruby, tools, content sites
+- **Mobile:** Swift, SwiftUI, Kotlin
+- **Security:** pentesting fundamentals, TryHackMe
+- **AI workflow:** Claude Code, spec-driven development
+
+### 🚧 Currently
+- Developing a survivor-like for Steam
+- Making websites, tools, and mobile apps for clients
+
+### 💡 Also into
+Learning design, fitness & physical education, entrepreneurship.
+
+### 📫 Find me
+[LinkedIn](https://www.linkedin.com/in/guillaume-garcia/) · [TryHackMe](https://tryhackme.com/p/ToniDanza) · 🇫🇷 / 🇬🇧
 
 <!--
-**guillaumeag/guillaumeag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Website](lien) · [LinkedIn](lien) · [Itch.io](https://guillaumeag.itch.io) · [Steam](lien) · 🇫🇷 / 🇬🇧
 -->
