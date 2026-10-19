@@ -4,14 +4,14 @@ Game & Software Developer with 15 years of experience across web,
 e-commerce (Shopify Plus), and software. Now focused on games, tools, and security,
 using AI-assisted, spec-driven workflows.
 
-### 🎮 What I build
+### 👨‍💻 What I build
 - **Games:** Unity, C#, game design
 - **Software & web:** Python, JavaScript, Ruby, tools, content sites
 - **Mobile:** Swift, SwiftUI, Kotlin
 - **Security:** pentesting fundamentals, TryHackMe
 - **AI workflow:** Claude Code, spec-driven development
 
-### 🚧 Currently
+### 📂 Currently
 - Developing a survivor-like for Steam
 - Making websites, tools, and mobile apps for clients
 
