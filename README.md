@@ -1,26 +1,24 @@
-# Hi, I'm Guillaume 👋
+# Hi, I'm Guillaume
 
-Game & Software Developer with 15 years of experience across web,
-e-commerce (Shopify Plus), and software. Now focused on games, tools, and security,
-using AI-assisted, spec-driven workflows.
+Game designer and developer. I started writing software and websites over 20 years ago, and I have 15 years of professional experience across web, e-commerce (Shopify Plus) and software. Today I focus on short, focused games, and I work with AI through a spec-driven workflow.
 
-### 👨‍💻 What I build
-- **Games:** Unity, C#, game design
-- **Software & web:** Python, JavaScript, Ruby, tools, content sites
+### Games
+- **Rose**, a cozy investigation game made solo for the Official Unity Game Jam 2026. [Play it on itch.io](https://guillaumeag.itch.io/rose-game-jam-unity-2026)
+- All my games are on [itch.io](https://guillaumeag.itch.io)
+
+### What I build
+- **Games:** Unity, C#, game design, prototyping and playtesting
+- **Software and web:** Python, JavaScript, Ruby, tools, content sites
 - **Mobile:** Swift, SwiftUI, Kotlin
-- **Security:** pentesting fundamentals, TryHackMe
 - **AI workflow:** Claude Code, spec-driven development
+- **Security:** pentesting fundamentals, TryHackMe
 
-### 📂 Currently
-- Developing a survivor-like for Steam
-- Making websites, tools, and mobile apps for clients
+### Currently
+- Making small games for PC and mobile, and exploring educational games
+- Building websites, tools and mobile apps for clients
 
-### 💡 Also into
-Learning design, fitness & physical education, entrepreneurship.
+### Also into
+Learning design, sport and physical education, entrepreneurship, travel.
 
-### 📫 Find me
-[LinkedIn](https://www.linkedin.com/in/guillaume-garcia/) · [TryHackMe](https://tryhackme.com/p/ToniDanza) · 🇫🇷 / 🇬🇧
-
-<!--
-[Website](lien) · [LinkedIn](lien) · [Itch.io](https://guillaumeag.itch.io) · [Steam](lien) · 🇫🇷 / 🇬🇧
--->
+### Find me
+[itch.io](https://guillaumeag.itch.io) · [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/) · [TryHackMe](https://tryhackme.com/p/ToniDanza) · French / English
