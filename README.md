@@ -1,4 +1,4 @@
-# Hi, I'm Guillaume
+# Hi, I'm Guillaume 👋
 
 Game & Software Developer. I started writing software and websites over 20 years ago, and I have 15 years of professional experience across web, e-commerce (Shopify Plus) and software. Today I make short, focused games, I still build software for clients, and I work with AI through a spec-driven workflow.
 
@@ -21,4 +21,4 @@ Game & Software Developer. I started writing software and websites over 20 years
 Learning design, sport and physical education, entrepreneurship, travel.
 
 ### Find me
-[itch.io](https://guillaumeag.itch.io) · [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/) · [TryHackMe](https://tryhackme.com/p/ToniDanza) · French / English
+[itch.io](https://guillaumeag.itch.io) · [LinkedIn](https://www.linkedin.com/in/guillaume-garcia/) · [TryHackMe](https://tryhackme.com/p/ToniDanza) · 🇫🇷 / 🇬🇧
