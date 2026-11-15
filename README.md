@@ -1,6 +1,6 @@
 # Hi, I'm Guillaume
 
-Game & Software Developer. I started writing software and websites over 20 years ago, and I have 15 years of professional experience across web, e-commerce (Shopify Plus) and software. Today I focus on short, focused games, and I work with AI through a spec-driven workflow.
+Game & Software Developer. I started writing software and websites over 20 years ago, and I have 15 years of professional experience across web, e-commerce (Shopify Plus) and software. Today I make short, focused games, I still build software for clients, and I work with AI through a spec-driven workflow.
 
 ### Games
 - **Rose**, a cozy investigation game made solo for the Official Unity Game Jam 2026. [Play it on itch.io](https://guillaumeag.itch.io/rose-game-jam-unity-2026)
