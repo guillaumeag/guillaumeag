@@ -9,7 +9,7 @@ Game & Software Developer. I started writing software and websites over 20 years
 ### What I build
 - **Games:** Unity, C#, game design, prototyping and playtesting
 - **Software and web:** Python, JavaScript, Ruby, tools, content sites
-- **Mobile:** Swift, SwiftUI, Kotlin
+- **Mobile:** iOS and Android apps (Swift, SwiftUI, Kotlin)
 - **AI workflow:** Claude Code, spec-driven development
 - **Security:** pentesting fundamentals, TryHackMe
 
